@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GAS Brugherio</title>
+    <link>https://www.ipalo.it/gasbrugherio/</link>
+    <description>Recent content on GAS Brugherio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Sat, 02 Nov 2019 18:16:29 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.ipalo.it/gasbrugherio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elenco ordini GAS Brugherio</title>
+      <link>https://www.ipalo.it/gasbrugherio/ordini/</link>
+      <pubDate>Sat, 02 Nov 2019 18:16:29 +0100</pubDate>
+      
+      <guid>https://www.ipalo.it/gasbrugherio/ordini/</guid>
+      <description>Elenco (sparso) degli ordini    nome link     Li Calzi/Galline Felici/Biosmurra agrumi e trasformati  https://goo.gl/2xnx4T   Hierbabuena - cosmetici e detersivi  https://goo.gl/02JWE   Viranda vino - https://goo.gl/hRxSyi   GITE - foglio per adesione: https://goo.gl/51SX4   Pesce d&amp;rsquo;aprile- pesce  https://goo.gl/EJUYt   Leccolatte - latte e formaggi  https://goo.gl/hsoRf   Tomasoni - parmigiano e formaggi: http://ordini.biocaseificiotomasoni.it/login.aspx   Officina Naturae - detersivi e cosmetici: https://goo.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -22,7 +22,7 @@ draft: false
 | Pesche **Rivalta** | [https://brugas.page.link/rniX](https://brugas.page.link/rniX) |
 | **Prodotti LiberoMondo** - | [https://goo.gl/ILpvL](https://goo.gl/ILpvL "https://goo.gl/ILpvL") |
 | **[Noci di Nogalba](http://www.produzionenoci.it/ "Noci di Nogalba")** \- **Castagne Val Camonica - **| [https://goo.gl/35VXc7](https://goo.gl/35VXc7 "https://goo.gl/35VXc7") |
-| **Fattoria della Mandorla** - | [https://goo.gl/ZuMtKn](https://goo.gl/ZuMtKn "https://goo.gl/ZuMtKn") |
+| **Fattoria della Mandorla** - | [https://brugas.page.link/fattoriamandorla](https://brugas.page.link/fattoriamandorla "https://brugas.page.link/fattoriamandorla") |
 | **[Fattoria Ca' de' Lassi](http://www.cadelassi.com "Fattoria Ca' de' Lassi")** - | [https://goo.gl/SfIPCo](https://goo.gl/SfIPCo "https://goo.gl/SfIPCo") |
 | **Asparagi Mezzago** - | [https://goo.gl/1sU491](https://goo.gl/1sU491 "https://goo.gl/1sU491") |
 | **Azienda "Le Ramate"** **Formaggi** - | [https://goo.gl/KI7b3U](https://goo.gl/KI7b3U "https://goo.gl/KI7b3U") |

@@ -5,12 +5,7 @@
     <link>https://www.ipalo.it/gasbrugherio/</link>
     <description>Recent content on GAS Brugherio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it-it</language>
-    <lastBuildDate>Sat, 02 Nov 2019 18:16:29 +0100</lastBuildDate>
-    
-	<atom:link href="https://www.ipalo.it/gasbrugherio/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>it-it</language><atom:link href="https://www.ipalo.it/gasbrugherio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elenco ordini GAS Brugherio</title>
       <link>https://www.ipalo.it/gasbrugherio/ordini/</link>

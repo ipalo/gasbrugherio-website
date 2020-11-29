@@ -5,10 +5,6 @@
     <link>https://www.ipalo.it/gasbrugherio/categories/</link>
     <description>Recent content in Categories on GAS Brugherio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it-it</language>
-    
-	<atom:link href="https://www.ipalo.it/gasbrugherio/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>it-it</language><atom:link href="https://www.ipalo.it/gasbrugherio/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -23,3 +23,5 @@ jobs:
         server: ${{ secrets.ftp_hostname }}
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
+        local-dir: ./public/
+        server-dir: httpdocs/gasbrugherio/

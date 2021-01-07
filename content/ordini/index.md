@@ -1,6 +1,5 @@
 ---
 title: "Elenco ordini GAS Brugherio"
-date: 2019-11-02T18:16:29+01:00
 draft: false
 ---
 
@@ -39,6 +38,7 @@ draft: false
 | **Patate** | [https://goo.gl/gNh2mk](https://goo.gl/gNh2mk) |
 | **Alici e tonno Nonno Peppino** | [https://brugas.page.link/nonnopeppino](https://brugas.page.link/nonnopeppino) |
 | **Bottega Commercio Equo - Monza** | [https://goo.gl/V3Dnf7](https://goo.gl/V3Dnf7) |
+| **Carciofi Sardi** | [https://brugas.page.link/carciofi](https://brugas.page.link/carciofi) |
 
 # Risorse
 

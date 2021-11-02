@@ -39,6 +39,7 @@ draft: false
 | **Alici e tonno Nonno Peppino** | [https://brugas.page.link/nonnopeppino](https://brugas.page.link/nonnopeppino) |
 | **Bottega Commercio Equo - Monza** | [https://goo.gl/V3Dnf7](https://goo.gl/V3Dnf7) |
 | **Carciofi Sardi** | [https://brugas.page.link/carciofi](https://brugas.page.link/carciofi) |
+| **Pecorino Debbene** | [https://bit.ly/3w5Q2BG](https://bit.ly/3w5Q2BG) |
 
 # Risorse
 

@@ -9,7 +9,7 @@ draft: false
 |---|---|
 | **Li Calzi/Galline Felici/Biosmurra** agrumi e trasformati | [https://goo.gl/2xnx4T](https://goo.gl/2xnx4T) |
 | **Hierbabuena** - cosmetici e detersivi | [https://goo.gl/02JWE](https://goo.gl/02JWE) |
-| **[Viranda](http://www.laviranda.it/)** vino - | [https://goo.gl/hRxSyi](https://goo.gl/hRxSyi) |
+| **[Viranda](http://www.laviranda.it/)** vino | [https://goo.gl/hRxSyi](https://goo.gl/hRxSyi) |
 | **GITE** - foglio per adesione: | [https://goo.gl/51SX4](https://goo.gl/51SX4 "https://goo.gl/51SX4") |
 | **Pesce d'aprile**- pesce | [https://goo.gl/EJUYt](https://goo.gl/EJUYt) |
 | **Leccolatte** - latte e formaggi | [https://goo.gl/hsoRf](https://goo.gl/hsoRf) |
@@ -19,17 +19,17 @@ draft: false
 | **Lesca** - riso e legumi | [https://goo.gl/2UQFSU](https://goo.gl/2UQFSU) |
 | **La Terra e il Cielo** - pasta e trasformati | [https://goo.gl/GSdSpp](https://goo.gl/GSdSpp) |
 | Pesche **Rivalta** | [https://brugas.page.link/rniX](https://brugas.page.link/rniX) |
-| **Prodotti LiberoMondo** - | [https://goo.gl/ILpvL](https://goo.gl/ILpvL "https://goo.gl/ILpvL") |
+| **Prodotti LiberoMondo** | [https://goo.gl/ILpvL](https://goo.gl/ILpvL "https://goo.gl/ILpvL") |
 | **[Noci di Nogalba](http://www.produzionenoci.it/ "Noci di Nogalba")** \- **Castagne Val Camonica - **| [https://goo.gl/35VXc7](https://goo.gl/35VXc7 "https://goo.gl/35VXc7") |
-| **Fattoria della Mandorla** - | [https://brugas.page.link/fattoriamandorla](https://brugas.page.link/fattoriamandorla "https://brugas.page.link/fattoriamandorla") |
-| **[Fattoria Ca' de' Lassi](http://www.cadelassi.com "Fattoria Ca' de' Lassi")** - | [https://goo.gl/SfIPCo](https://goo.gl/SfIPCo "https://goo.gl/SfIPCo") |
-| **Asparagi Mezzago** - | [https://goo.gl/1sU491](https://goo.gl/1sU491 "https://goo.gl/1sU491") |
-| **Azienda "Le Ramate"** **Formaggi** - | [https://goo.gl/KI7b3U](https://goo.gl/KI7b3U "https://goo.gl/KI7b3U") |
-| **Funghi Chiodo** - | [https://goo.gl/ulHBvj](https://goo.gl/ulHBvj "https://goo.gl/ulHBvj") |
-| **Mele Fiorini -** | [https://goo.gl/DZwTPQ](https://goo.gl/DZwTPQ "https://goo.gl/DZwTPQ") |
-| **Mozzarelle Libera -**| [https://goo.gl/gLrpOZ](https://goo.gl/gLrpOZ "https://goo.gl/gLrpOZ") |
-| **Pane -**| [https://goo.gl/BXc2c2](https://goo.gl/BXc2c2) |
-| **Pecorino Funtana Cana -** | [https://goo.gl/T43b2B](https://goo.gl/T43b2B "https://goo.gl/T43b2B") |
+| **Fattoria della Mandorla** | [https://brugas.page.link/fattoriamandorla](https://brugas.page.link/fattoriamandorla "https://brugas.page.link/fattoriamandorla") |
+| **[Fattoria Ca' de' Lassi](http://www.cadelassi.com "Fattoria Ca' de' Lassi")** | [https://goo.gl/SfIPCo](https://goo.gl/SfIPCo "https://goo.gl/SfIPCo") |
+| **Asparagi Mezzago** | [https://goo.gl/1sU491](https://goo.gl/1sU491 "https://goo.gl/1sU491") |
+| **Azienda "Le Ramate"** **Formaggi** | [https://goo.gl/KI7b3U](https://goo.gl/KI7b3U "https://goo.gl/KI7b3U") |
+| **Funghi Chiodo** | [https://goo.gl/ulHBvj](https://goo.gl/ulHBvj "https://goo.gl/ulHBvj") |
+| **Mele Fiorini** | [https://goo.gl/DZwTPQ](https://goo.gl/DZwTPQ "https://goo.gl/DZwTPQ") |
+| **Mozzarelle Libera**| [https://goo.gl/gLrpOZ](https://goo.gl/gLrpOZ "https://goo.gl/gLrpOZ") |
+| **Pane**| [https://goo.gl/BXc2c2](https://goo.gl/BXc2c2) |
+| **Pecorino Funtana Cana** | [https://goo.gl/T43b2B](https://goo.gl/T43b2B "https://goo.gl/T43b2B") |
 | **Miele Ortolina** | [https://goo.gl/mCZQ3N](https://goo.gl/mCZQ3N) |
 | **Pioppo Tremulo** | [https://goo.gl/NOotW9](https://goo.gl/NOotW9) |
 | **Birra Alma Monza** | [https://goo.gl/JbMfHz](https://goo.gl/JbMfHz) |

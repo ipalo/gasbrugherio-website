@@ -9,12 +9,12 @@ draft: false
 |---|---|
 | **Li Calzi/Galline Felici/Biosmurra** agrumi e trasformati| [https://goo.gl/2xnx4T](https://goo.gl/2xnx4T) |
 | **Hierbabuena**- cosmetici e detersivi| [https://goo.gl/02JWE](https://goo.gl/02JWE) |
-| **[Viranda](http://www.laviranda.it/)**vino | [https://goo.gl/hRxSyi](https://goo.gl/hRxSyi) |
+| [**Viranda**](http://www.laviranda.it/) vino | [https://goo.gl/hRxSyi](https://goo.gl/hRxSyi) |
 | **GITE** - foglio per adesione: | [https://goo.gl/51SX4](https://goo.gl/51SX4 "https://goo.gl/51SX4") |
 | **Pesce d'aprile**- pesce| [https://goo.gl/EJUYt](https://goo.gl/EJUYt) |
 | **Leccolatte**- latte e formaggi| [https://goo.gl/hsoRf](https://goo.gl/hsoRf) |
 | **Tomasoni** - parmigiano e formaggi:| [http://ordini.biocaseificiotomasoni.it/login.aspx](http://ordini.biocaseificiotomasoni.it/login.aspx) |
-| **Officina Naturae** - detersivi e cosmetici:| [https://goo.gl/u4eiV](https://goo.gl/u4eiV) |
+| **Officina Naturae** - detersivi e cosmetici:| [https://brugas.page.link/officinanaturae](https://brugas.page.link/officinanaturae) |
 | **Rob** - frutta, verdura e trasformati:| [https://goo.gl/yiR17](https://goo.gl/yiR17) |
 | **Lesca** - riso e legumi| [https://goo.gl/2UQFSU](https://goo.gl/2UQFSU) |
 | **La Terra e il Cielo** - pasta e trasformati| [https://goo.gl/GSdSpp](https://goo.gl/GSdSpp) |

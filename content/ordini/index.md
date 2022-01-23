@@ -40,6 +40,7 @@ draft: false
 | **Bottega Commercio Equo - Monza** | [https://goo.gl/V3Dnf7](https://goo.gl/V3Dnf7) |
 | **Carciofi Sardi** | [https://brugas.page.link/carciofi](https://brugas.page.link/carciofi) |
 | **Pecorino Debbene** | [https://bit.ly/3w5Q2BG](https://bit.ly/3w5Q2BG) |
+| **Mele e Patate Franchetti** | [https://brugas.page.link/franchetti](https://brugas.page.link/franchetti) |
 
 # Risorse
 

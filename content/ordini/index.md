@@ -27,7 +27,7 @@ draft: false
 | **Azienda "Le Ramate"** **Formaggi** | [https://goo.gl/KI7b3U](https://goo.gl/KI7b3U "https://goo.gl/KI7b3U") |
 | **Funghi Chiodo** | [https://goo.gl/ulHBvj](https://goo.gl/ulHBvj "https://goo.gl/ulHBvj") |
 | **Mele Fiorini** | [https://goo.gl/DZwTPQ](https://goo.gl/DZwTPQ "https://goo.gl/DZwTPQ") |
-| **Mozzarelle Libera**| [https://goo.gl/gLrpOZ](https://goo.gl/gLrpOZ "https://goo.gl/gLrpOZ") |
+| **Mozzarelle Libera**| [https://t.ly/NtJgA](https://t.ly/NtJgA) |
 | **Pane**| [https://goo.gl/BXc2c2](https://goo.gl/BXc2c2) |
 | **Pecorino Funtana Cana** | [https://goo.gl/T43b2B](https://goo.gl/T43b2B "https://goo.gl/T43b2B") |
 | **Miele Ortolina** | [https://goo.gl/mCZQ3N](https://goo.gl/mCZQ3N) |
@@ -48,3 +48,4 @@ draft: false
 |---|---|
 |**Calendario Annuale Ordini GAS 4C**  | [https://goo.gl/VZq7uB](https://goo.gl/VZq7uB) |
 |**Rubrica gasisti** | [https://goo.gl/PzSYq](https://goo.gl/PzSYq) |
+|**Contabilità 2023**| [https://docs.google.com/spreadsheets/d/1NmceqK1V86VEnvF12ydcI_G-jQ_pp2ScXVRJdVpMve8/edit#gid=1788992749](https://docs.google.com/spreadsheets/d/1NmceqK1V86VEnvF12ydcI_G-jQ_pp2ScXVRJdVpMve8/edit#gid=1788992749) |

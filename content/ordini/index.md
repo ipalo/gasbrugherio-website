@@ -34,7 +34,7 @@ draft: false
 | **Pioppo Tremulo** | [https://goo.gl/NOotW9](https://goo.gl/NOotW9) |
 | **Birra Alma Monza** | [https://goo.gl/JbMfHz](https://goo.gl/JbMfHz) |
 | **Microortaggi** | [https://goo.gl/MVzlKI](https://goo.gl/MVzlKI) |
-| **Olio Bova** | [https://goo.gl/5uBpYS](https://goo.gl/5uBpYS) |
+| **Olio Bova** | [https://t.ly/abE13](https://t.ly/abE13) |
 | **Patate** | [https://goo.gl/gNh2mk](https://goo.gl/gNh2mk) |
 | **Alici e tonno Nonno Peppino**| [https://brugas.page.link/nonnopeppino](https://brugas.page.link/nonnopeppino) |
 | **Bottega Commercio Equo - Monza** | [https://goo.gl/V3Dnf7](https://goo.gl/V3Dnf7) |
@@ -48,5 +48,5 @@ draft: false
 |---|---|
 |**Calendario Annuale Ordini GAS 4C**  | [https://goo.gl/VZq7uB](https://goo.gl/VZq7uB) |
 |**Rubrica gasisti** | [https://goo.gl/PzSYq](https://goo.gl/PzSYq) |
-|**Contabilità 2023**| [https://docs.google.com/spreadsheets/d/1NmceqK1V86VEnvF12ydcI_G-jQ_pp2ScXVRJdVpMve8/edit#gid=1788992749](https://docs.google.com/spreadsheets/d/1NmceqK1V86VEnvF12ydcI_G-jQ_pp2ScXVRJdVpMve8/edit#gid=1788992749) |
-|**Contabilità 2024**| [https://docs.google.com/spreadsheets/d/14PKUY1lUU6EzOaHHAMETXUw6DdkfIIuxNAddrUT3HzM/edit#gid=1788992749](https://docs.google.com/spreadsheets/d/14PKUY1lUU6EzOaHHAMETXUw6DdkfIIuxNAddrUT3HzM/edit#gid=1788992749) |
+|**Contabilità 2023**| [https://t.ly/B_02S](https://t.ly/B_02S) |
+|**Contabilità 2024**| [https://t.ly/ZtBcq](https://t.ly/ZtBcq) |

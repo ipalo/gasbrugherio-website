@@ -7,7 +7,7 @@ draft: false
 
 | *nome* |  *link* |
 |---|---|
-| **Li Calzi/Galline Felici/Biosmurra** agrumi e trasformati| [https://goo.gl/2xnx4T](https://goo.gl/2xnx4T) |
+| **Li Calzi/Galline Felici/Biosmurra** agrumi e trasformati| [https://t.ly/9KIlU](https://t.ly/9KIlU) |
 | **Hierbabuena**- cosmetici e detersivi| [https://goo.gl/02JWE](https://goo.gl/02JWE) |
 | [**Viranda**](http://www.laviranda.it/) vino | [https://goo.gl/hRxSyi](https://goo.gl/hRxSyi) |
 | **GITE** - foglio per adesione: | [https://goo.gl/51SX4](https://goo.gl/51SX4 "https://goo.gl/51SX4") |
@@ -41,6 +41,7 @@ draft: false
 | **Carciofi Sardi** | [https://brugas.page.link/carciofi](https://brugas.page.link/carciofi) |
 | **Pecorino Debbene** | [https://bit.ly/3w5Q2BG](https://bit.ly/3w5Q2BG) |
 | **Mele e Patate Franchetti** | [https://brugas.page.link/franchetti](https://brugas.page.link/franchetti) |
+| **Podere Marella** | [https://t.ly/CkkbU](https://t.ly/CkkbU) |
 
 # Risorse
 

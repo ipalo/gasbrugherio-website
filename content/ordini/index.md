@@ -42,6 +42,7 @@ draft: false
 | **Pecorino Debbene** | [https://bit.ly/3w5Q2BG](https://bit.ly/3w5Q2BG) |
 | **Mele e Patate Franchetti** | [https://brugas.page.link/franchetti](https://brugas.page.link/franchetti) |
 | **Podere Marella** | [https://t.ly/CkkbU](https://t.ly/CkkbU) |
+| **Furgoncino solidale** | [t.ly/1o8G2](t.ly/1o8G2) |
 
 # Risorse
 

@@ -1,3 +1,7 @@
+---
+title: GasBrugherio AppScript
+draft: false
+---
 # GasBrugherio AppScript
 
 Homepage dell'applicazione necessaria per facilitare i calcoli nella tabella di Google del gruppo di acquisto solidale GasBrugherio "Cent coo cent crap".

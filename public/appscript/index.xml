@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GAS Brugherio</title>
-    <link>http://localhost:1313/gasbrugherio/appscript/</link>
-    <description>Recent content on GAS Brugherio</description>
+    <title>GasBrugherio AppScript on GAS Brugherio</title>
+    <link>https://www.ipalo.it/gasbrugherio/appscript/</link>
+    <description>Recent content in GasBrugherio AppScript on GAS Brugherio</description>
     <generator>Hugo</generator>
     <language>it-it</language>
-    <atom:link href="http://localhost:1313/gasbrugherio/appscript/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.ipalo.it/gasbrugherio/appscript/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:1313/gasbrugherio/appscript/privacy/privacy/</link>
+      <title>Normativa privacy GasBrugherio AppScript</title>
+      <link>https://www.ipalo.it/gasbrugherio/appscript/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gasbrugherio/appscript/privacy/privacy/</guid>
-      <description>&lt;h1 id=&#34;normativa-privacy-gasbrugherio&#34;&gt;Normativa privacy GasBrugherio&lt;/h1&gt;&#xA;&lt;p&gt;Informativa resa ai sensi degli articoli 13-14 del GDPR 2016/679 (General Data Protection Regulation).&lt;/p&gt;&#xA;&lt;p&gt;Ai sensi dell’art. 13 del Regolamento UE 2016/679 ed in relazione alle informazioni di cui si entrerà in possesso, ai fini della tutela delle persone e altri soggetti in materia di trattamento di dati personali, si informa quanto segue:&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-finalità-del-trattamento&#34;&gt;1. Finalità del Trattamento&lt;/h3&gt;&#xA;&lt;p&gt;I dati da Lei forniti verranno utilizzati allo scopo e per il fine di gestire la contabilità dell&amp;rsquo;associazione GasBrugherio.&lt;/p&gt;</description>
+      <guid>https://www.ipalo.it/gasbrugherio/appscript/privacy/</guid>
+      <description>&lt;h1 id=&#34;normativa-privacy-gasbrugherio-appscript&#34;&gt;Normativa privacy GasBrugherio AppScript&lt;/h1&gt;&#xA;&lt;p&gt;Informativa resa ai sensi degli articoli 13-14 del GDPR 2016/679 (General Data Protection Regulation).&lt;/p&gt;&#xA;&lt;p&gt;Ai sensi dell’art. 13 del Regolamento UE 2016/679 ed in relazione alle informazioni di cui si entrerà in possesso, ai fini della tutela delle persone e altri soggetti in materia di trattamento di dati personali, si informa quanto segue:&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-finalità-del-trattamento&#34;&gt;1. Finalità del Trattamento&lt;/h3&gt;&#xA;&lt;p&gt;I dati da Lei forniti verranno utilizzati allo scopo e per il fine di gestire la contabilità dell&amp;rsquo;associazione GasBrugherio.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

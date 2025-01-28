@@ -4,4 +4,4 @@ Homepage dell'applicazione necessaria per facilitare i calcoli nella tabella di 
 
 L'applicazione è utilizzata solo a scopo interno per facilitare i calcoli sulla tabella Google Spreadsheet da parte dei soci dell'associazione GasBrugherio "Cent coo cent crap". Nessun altro uso è consentito. Le informazioni a cui ha accesso l'applicazione sono relative alla gestione interna dell'associazione GasBrugherio.
 
-Puoi consultare qui la [Privacy policy e i termini di utilizzo]({{< ref "privacy" >}} ) dell'AppScript.
+Puoi consultare qui la [Privacy policy e i termini di utilizzo]({{< ref "/appscript/privacy" >}} ) dell'AppScript.

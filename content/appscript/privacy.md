@@ -1,4 +1,8 @@
-# Normativa privacy GasBrugherio
+---
+title: Normativa privacy GasBrugherio AppScript
+draft: false
+---
+# Normativa privacy GasBrugherio AppScript
 
 Informativa resa ai sensi degli articoli 13-14 del GDPR 2016/679 (General Data Protection Regulation).
 

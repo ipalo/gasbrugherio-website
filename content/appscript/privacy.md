@@ -12,7 +12,7 @@ Ai sensi dell’art. 13 del Regolamento UE 2016/679 ed in relazione alle informa
 I dati da Lei forniti verranno utilizzati allo scopo e per il fine di gestire la contabilità dell'associazione GasBrugherio.
 
 ### 2. Modalità del Trattamento
-Le modalità con la quale verranno trattati i dati personali contemplano la visualizzazione e la modifica dei dati riportati nella tabella di Google Spreadsheet collettiva dei soci del GasBrugherio.
+Le modalità con la quale verranno trattati i dati personali contemplano la visualizzazione e la modifica dei dati riportati nella tabella di Google Spreadsheet collettiva dei soci del GasBrugherio. I dati trattati all'interno di Google Spreadsheet sono cifre e nomi relativi alla contabilità interna del gruppo GasBrugherio a cui hanno accesso esclusivamente i membri dell'associazione. I dati trattati NON verranno condivisi, trasferiti o divulgati e verranno usati solo allo scopo di compilare correttamente la tabella Google Spreadsheet di contabilità dell'associazione. I dati verranno conservati esclusivamente all'interno della tabella di Google Spreadsheet, per cui valgono [le relative policy di trattamento dei dati](https://transparency.google/our-policies/product-terms/google-sheets/).
 ### 3. Conferimento dei dati
 Il conferimento dei dati per le finalità di cui al punto 1 sono facoltativi e l’eventuale rifiuto dell’autorizzazione comporta l'impossibilità di eseguire i calcoli correttamente.
 ### 4. Comunicazione e diffusione dei dati

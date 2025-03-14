@@ -52,3 +52,4 @@ draft: false
 |**Rubrica gasisti** | [https://goo.gl/PzSYq](https://goo.gl/PzSYq) |
 |**Contabilità 2023**| [https://t.ly/B_02S](https://t.ly/B_02S) |
 |**Contabilità 2024**| [https://t.ly/ZtBcq](https://t.ly/ZtBcq) |
+|**Contabilità 2025**| [https://t.ly/8bfrZ](https://t.ly/8bfrZ) |

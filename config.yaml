@@ -23,3 +23,5 @@ menu:
     - url: /ordini/
       name: Ordini
       weight: 2
+disableKinds:
+  - taxonomy

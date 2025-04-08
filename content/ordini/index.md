@@ -15,7 +15,6 @@ draft: false
 | **Leccolatte**- latte e formaggi| [https://goo.gl/hsoRf](https://goo.gl/hsoRf) |
 | **Tomasoni** - parmigiano e formaggi:| [http://ordini.biocaseificiotomasoni.it/login.aspx](http://ordini.biocaseificiotomasoni.it/login.aspx) |
 | **Officina Naturae** - detersivi e cosmetici:| [https://brugas.page.link/officinanaturae](https://brugas.page.link/officinanaturae) |
-| **Rob** - frutta, verdura e trasformati:| [https://brugas.page.link/rob](https://brugas.page.link/rob) |
 | **Lesca** - riso e legumi| [https://goo.gl/2UQFSU](https://goo.gl/2UQFSU) |
 | **La Terra e il Cielo** - pasta e trasformati| [https://goo.gl/GSdSpp](https://goo.gl/GSdSpp) |
 | Pesche **Rivalta**| [https://brugas.page.link/rniX](https://brugas.page.link/rniX) |
@@ -43,6 +42,7 @@ draft: false
 | **Mele e Patate Franchetti** | [https://brugas.page.link/franchetti](https://brugas.page.link/franchetti) |
 | **Podere Marella** | [https://t.ly/CkkbU](https://t.ly/CkkbU) |
 | **Furgoncino solidale** | [https://t.ly/1o8G2](https://t.ly/1o8G2) |
+| **Bagaggera** | [https://brugas.page.link/bagaggera](https://brugas.page.link/bagaggera) |
 
 # Risorse
 

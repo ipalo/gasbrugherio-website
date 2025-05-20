@@ -43,7 +43,7 @@ draft: false
 | **Podere Marella** | [https://t.ly/CkkbU](https://t.ly/CkkbU) |
 | **Furgoncino solidale** | [https://t.ly/1o8G2](https://t.ly/1o8G2) |
 | **Bagaggera** | [https://brugas.page.link/bagaggera](https://brugas.page.link/bagaggera) |
-| **Caffé Zapatista** | [https://t.ly/Dq_uV](https://t.ly/Dq_uV) |
+| **Caffe Zapatista** | [https://t.ly/Dq_uV](https://t.ly/Dq_uV) |
 
 # Risorse
 

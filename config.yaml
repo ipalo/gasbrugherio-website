@@ -25,3 +25,5 @@ menu:
       weight: 2
 disableKinds:
   - taxonomy
+contentTypes:
+  - text/html: {}

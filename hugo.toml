@@ -1,0 +1,17 @@
+baseURL = 'https://www.ipalo.it/gasbrugherio/'
+languageCode = 'it-it'
+title = 'GAS Brugherio'
+theme = "nojs"
+[params]
+  sitename = "GAS Brugherio \"Cent coo cent crap\""
+  disableWebFonts = false
+  font = 'Raleway'
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Ordini'
+    pageRef = '/ordini'
+    weight = 20

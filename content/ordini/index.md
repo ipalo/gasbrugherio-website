@@ -44,6 +44,7 @@ draft: false
 | **Furgoncino solidale** | [https://t.ly/1o8G2](https://t.ly/1o8G2) |
 | **Bagaggera** | [https://brugas.page.link/bagaggera](https://brugas.page.link/bagaggera) |
 | **Caffe Zapatista** | [https://t.ly/Dq_uV](https://t.ly/Dq_uV) |
+| **Floriddia** | [https://t.ly/sVf8Q](https://t.ly/sVf8Q) |
 
 # Risorse
 

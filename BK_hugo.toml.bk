@@ -1,0 +1,26 @@
+baseURL = 'https://www.ipalo.it/gasbrugherio/'
+languageCode = 'it-it'
+title = 'GAS Brugherio'
+[params]
+  author = 'Paolo Rossi'
+  description = 'Gruppo di Acquisto Solidale "Cent coo cent crap"'
+  accent = '#0A81D1'
+  showBorder = 'true'
+  backgroundColor = 'white'
+  font = 'Raleway'
+  highlight = 'true'
+[outputs]
+  home = ['html']
+  page = ['html']
+  section = ['html']
+[minify]
+    disableXML = true
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Ordini'
+    pageRef = '/ordini'
+    weight = 20

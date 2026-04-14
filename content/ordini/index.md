@@ -37,6 +37,7 @@ draft: false
 | **Bagaggera** | [https://brugas.page.link/bagaggera](https://brugas.page.link/bagaggera) |
 | **Caffe Zapatista** | [https://t.ly/Dq_uV](https://t.ly/Dq_uV) |
 | **Floriddia** | [https://t.ly/sVf8Q](https://t.ly/sVf8Q) |
+| **Funghi Buoono** | [https://t.ly/URAvp](https://t.ly/URAvp) |
 
 # Risorse
 

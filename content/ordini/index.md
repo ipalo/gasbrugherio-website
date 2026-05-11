@@ -38,6 +38,7 @@ draft: false
 | **Caffe Zapatista** | [https://t.ly/Dq_uV](https://t.ly/Dq_uV) |
 | **Floriddia** | [https://t.ly/sVf8Q](https://t.ly/sVf8Q) |
 | **Funghi Buoono** | [https://t.ly/URAvp](https://t.ly/URAvp) |
+| **Birra Menaresta** | [https://t.ly/nYVtI](https://t.ly/nYVtI) |
 
 # Risorse
 

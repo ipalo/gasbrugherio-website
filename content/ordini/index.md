@@ -39,6 +39,7 @@ draft: false
 | **Floriddia** | [https://t.ly/sVf8Q](https://t.ly/sVf8Q) |
 | **Funghi Buoono** | [https://t.ly/URAvp](https://t.ly/URAvp) |
 | **Birra Menaresta** | [https://t.ly/nYVtI](https://t.ly/nYVtI) |
+| **Caffé La Libertaria** | [https://t.ly/EU8By](https://t.ly/EU8By) |
 
 # Risorse
 

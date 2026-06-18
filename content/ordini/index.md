@@ -40,6 +40,7 @@ draft: false
 | **Funghi Buoono** | [https://t.ly/URAvp](https://t.ly/URAvp) |
 | **Birra Menaresta** | [https://t.ly/nYVtI](https://t.ly/nYVtI) |
 | **Caffé La Libertaria** | [https://t.ly/EU8By](https://t.ly/EU8By) |
+| **Ciliegie Coop La Corda** | [https://t.ly/HMriE](https://t.ly/HMriE) |
 
 # Risorse
 
